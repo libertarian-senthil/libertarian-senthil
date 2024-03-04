@@ -19,8 +19,8 @@
 
 ### :fire: My Stats :
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=libertarian-senthil&theme=dark&background=000000)<br>
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=libertarian-senthil)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=senthilnathan-dev&theme=dark&background=000000)<br>
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=senthilnathan-dev)
 
 <!-- https://betterprogramming.pub/3-steps-to-improve-your-github-overview-page-950c64d4d465 ==> reference -->
 <!-- https://www.sitepoint.com/github-profile-readme/ -->
